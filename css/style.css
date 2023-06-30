@@ -5,7 +5,7 @@ body {
 }
 .bannerBgImage{
     height: 100vh;
-    background: url("images/bannerimage.jpg");
+    background: url("../images/bannerimage.jpg");
     background-size: cover;
     position: relative;
 }
@@ -89,7 +89,7 @@ body {
 .card{
     box-sizing: content-box fixed;
     width: 600px;
-    height: 630px;
+    height: 680px;
     border: 1px solid rgb(8, 10, 8);
     padding: 10px;
     margin: 10px;
